@@ -14,7 +14,7 @@ function App() {
         <div className="App-content">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            This is your first app on Stormkit.
+            This is your first app on Stormkit TEST.
             <br />
             This small application gets shipped together with an api.
             <br />
